@@ -1,18 +1,18 @@
 # Final Project D13 - Sistem Manajemen Inventaris Gudang dan Optimasi Rute Pengiriman
 
-Topik : Sistem Manajemen Inventaris Gudang dan Optimasi Rute Pengiriman
+**Topik** : Sistem Manajemen Inventaris Gudang dan Optimasi Rute Pengiriman
 
-Kelas : D
+**Kelas** : D
 
-Kelompok : 13
+**Kelompok** : 13
 
-Anggota :  
+**Anggota** :  
 Muhammad Fasha Asshofa / 5026241095  
 Daniel Evan Aditya Nugraha / 5026241135
 
-Mata Kuliah : Algoritma dan Struktur Data
+**Mata Kuliah** : Algoritma dan Struktur Data
 
-Dosen Pengampu : Renny Pradina Kusumawardani
+**Dosen Pengampu** : Renny Pradina Kusumawardani
 
 ## 1. Latar Belakang
 - Perkembangan teknologi informasi mendorong berbagai industri untuk mengoptimalkan proses pengelolaan data, termasuk dalam bidang logistik dan manajemen inventori. Sistem yang mampu menyimpan, mencari, dan mengelola data barang secara efisien menjadi kebutuhan penting agar perusahaan dapat menjalankan operasional dengan cepat dan akurat. Selain itu, proses distribusi barang antar kota membutuhkan perhitungan jarak dan rute tercepat, sehingga dapat mengurangi biaya pengiriman dan meningkatkan efektivitas distribusi.
